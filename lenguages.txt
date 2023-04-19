@@ -1,6 +1,10 @@
 Look a change!
 
+programming languages:
 c++
 c
 java
 python
+
+foreign languages: 
+french
